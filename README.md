@@ -1,2 +1,9 @@
 # csv-cleaner
-Small CLI to clean and dedupe CSV files
+
+Strips whitespace and optionally dedupes rows in a CSV.
+
+```
+python cleaner.py input.csv -o output.csv
+```
+
+MIT licensed.
